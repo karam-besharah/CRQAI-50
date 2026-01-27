@@ -5,8 +5,8 @@ Title: CRQAI-50: A Comprehensive Framework for Systematic Research Quality Asses
 Version: 1.0
 Publication Date: January 2026
 
-Author: Karam Besharah
-ORCID: 0009-0007-3476-5676   
+Author: Karam Besharah                    
+ORCID: 0009-0007-3476-5676      
 Author page : https://orcid.org/0009-0007-3476-5676
 
 License: CC BY-NC-SA 4.0    with flexible commercial licensing options

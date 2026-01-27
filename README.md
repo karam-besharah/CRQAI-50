@@ -17,5 +17,6 @@ Developed with particular attention to the humanities and social sciences, CRQAI
 The framework serves multiple stakeholders: researchers can conduct rigorous self-assessments prior to submission; peer reviewers and editorial boards can standardize evaluation processes; and academic institutions can implement it for internal review or training purposes. The included ready-to-use evaluation form facilitates immediate practical application.
 This release represents the quick-reference version of CRQAI-50. A comprehensive manual with extended case studies and discipline-specific adaptations is forthcoming from the same author.
 Keywords: research assessment, peer review framework, quality evaluation, academic publishing, research methodology, scholarly communication, evaluation instrument, CRQAI-50
+
 ________________________________________
 

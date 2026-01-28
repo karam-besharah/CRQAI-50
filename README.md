@@ -11,6 +11,10 @@ Author page : https://orcid.org/0009-0007-3476-5676
 
 License: CC BY-NC-SA 4.0    with flexible commercial licensing options
 
+DOI for ALL files :
+English : https://doi.org/10.5281/zenodo.18406823
+Arabic :  https://doi.org/10.5281/zenodo.18393296
+
 Abstract:
 This guide presents CRQAI-50 (Comprehensive Research Quality Assessment Instrument), a structured framework designed to facilitate systematic, transparent, and consistent evaluation of academic manuscripts. The instrument breaks down research quality into ten measurable criteria encompassing originality, methodological rigor, analytical soundness, ethical integrity, and overall scholarly contribution.
 Developed with particular attention to the humanities and social sciences, CRQAI-50 provides a balanced quantitative-qualitative approach, awarding a maximum of 50 points across 30 specific sub-indicators. Each criterion includes clear scoring guidelines (0, 0.5, 1, 1.5, 2 points) to minimize reviewer subjectivity and enhance assessment reliability.

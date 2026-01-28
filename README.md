@@ -11,7 +11,7 @@ Author page : https://orcid.org/0009-0007-3476-5676
 
 License: CC BY-NC-SA 4.0    with flexible commercial licensing options
 
-DOI for ALL files :
+DOI for ALL files :                    
 English : https://doi.org/10.5281/zenodo.18406823                    
 Arabic :  https://doi.org/10.5281/zenodo.18393296
 
